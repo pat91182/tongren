@@ -1,0 +1,15 @@
+{
+  "giscus": {
+    "repo": "pat91182/my-giscus-comments",
+    "repoId": "R_你的RepoID",
+    "category": "Comments",
+    "categoryId": "DIC_你的CategoryID",
+    "mapping": "pathname",
+    "strict": "0",
+    "reactionsEnabled": "1",
+    "emitMetadata": "0",
+    "inputPosition": "bottom",
+    "theme": "preferred_color_scheme",
+    "lang": "zh-TW"
+  }
+}
