@@ -96,5 +96,21 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {%include "components/canvasScript.njk"%}
     {% endif %}
     {% include "components/basesScript.njk" %}
+    <script 
+     src="https://giscus.app/client.js"
+     data-repo="pat91182/my-giscus-comments"
+     data-repo-id="R_你的RepoID"
+     data-category="Comments"
+     data-category-id="DIC_你的CategoryID"
+     data-mapping="pathname"
+     data-strict="0"
+     data-reactions-enabled="1"
+     data-emit-metadata="0"
+     data-input-position="bottom"
+     data-theme="preferred_color_scheme"
+     data-lang="zh-TW"
+     crossorigin="anonymous"
+     async>
+   </script>
   </body>
 </html>
