@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//deep-six-666/","title":"deep six意思\"徹底放棄\"的反思","tags":["deep6","六合","on7"],"dg-note-properties":{"title":"deep six意思\"徹底放棄\"的反思","permalink":"deep-six","description":"deep six意義“徹底放棄”是帶有針對性的，6可以推出六合，虛十架合併實十架，由1加到6等於21，21响禮炮代表互相尊重，進一步更可推出世界大同，大同意義是你好我好大家好，部分西方團體是反對烏托邦/世界大同。","tags":["deep6","六合","on7"],"date":"2025-01-15","author":"pat91182"}}
+{"dg-publish":true,"permalink":"//deep-six-666/","title":"deep six意思\"徹底放棄\"的反思","tags":["deep6","六合","on7"],"dg-note-properties":{"title":"deep six意思\"徹底放棄\"的反思","permalink":"tongren-xc9r.vercel.app/deep6","description":"deep six意義“徹底放棄”是帶有針對性的，6可以推出六合，虛十架合併實十架，由1加到6等於21，21响禮炮代表互相尊重，進一步更可推出世界大同，大同意義是你好我好大家好，部分西方團體是反對烏托邦/世界大同。","tags":["deep6","六合","on7"],"date":"2025-01-15","author":"pat91182"}}
 ---
 
 # 題目：deep six意思"徹底放棄"的反思
